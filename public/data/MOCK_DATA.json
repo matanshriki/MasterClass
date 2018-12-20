@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "title": "Serena Wiliams",
+        "description": "Teaches Tennis",
+        "img_url": "https://d3e9iqx18mbphw.cloudfront.net/images/549/original/1489514805-SW_FeaturedImage_V1_A.jpg?1489514805"
+    },
+    {
+        "id":2,
+        "title": "Stephen Curry",
+        "description": "Teaches Shooting and Scoring",
+        "img_url": "https://d3e9iqx18mbphw.cloudfront.net/images/1001/original/1510806323-1510785976-SC_Featured_Tile_V3.jpg?1510806323"
+    },
+    {
+        "id":3,
+        "title": "Daniel Negreanu",
+        "description": "Teaches Poker",
+        "img_url": "https://d3e9iqx18mbphw.cloudfront.net/images/1679/original/1528446322-Featured_Tile.jpg?1528446322"
+    },
+    {
+        "id":4,
+        "title": "Gordon Ramsay",
+        "description": "Teaches Cooking",
+        "img_url": "https://d3e9iqx18mbphw.cloudfront.net/images/544/original/1513011323-Featured_Tile_%281%29.jpg?1513011323"
+    },
+    {
+        "id":5,
+        "title": "Thomas Keller",
+        "description": "Teaches Cooking Techniques",
+        "img_url": "https://d3e9iqx18mbphw.cloudfront.net/images/1085/original/1510618603-Featured_Tile.jpg?1510618603"
+    },
+    {
+        "id":6,
+        "title": "Alice Waters",
+        "description": "Teaches The Art of Home Cooking",
+        "img_url": "https://d3e9iqx18mbphw.cloudfront.net/images/1059/original/1510617641-Featured_Tile.jpg?1510617641"
+    }
+]
